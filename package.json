@@ -1,11 +1,11 @@
 {
-  "name": "project-of-future-seniors",
+  "name": "html_89_R3enox",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-of-future-seniors/",
+    "build": "vite build --base=/html_89_R3enox/",
     "preview": "vite preview"
   },
   "devDependencies": {
